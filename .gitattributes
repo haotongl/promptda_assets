@@ -1,2 +1,3 @@
 recording.viser filter=lfs diff=lfs merge=lfs -text
 recording2.viser filter=lfs diff=lfs merge=lfs -text
+recording_teaser.viser filter=lfs diff=lfs merge=lfs -text
